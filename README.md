@@ -40,7 +40,7 @@ Note: this comment doesn't affect the main functionality of the smart-contract.
 Market parameters that increase the cost of transactions affecting the user
 functionality and user benefits is strongly encouraged.
 Recommendation:
-i. upgrade acceptance of deposits to both USDT-ERC20 and USDTTRC20.
+i. upgrade acceptance of deposits to both USDT-ERC20 and USDT-TRC20.
 ii. upgrade withdrawals to USDT-TRC20
 Note: this comment doesn't affect the main functionality of the smart-contract.
 
